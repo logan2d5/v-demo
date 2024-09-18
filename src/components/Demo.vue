@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h2>Hello, world!</h2>
+  <h2 class="text-sky-500">Hello, world!</h2>
 </template>
 
 <style scoped></style>
